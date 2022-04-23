@@ -1,0 +1,20 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2ffe9;
+}
+#project {
+  background-color: #e2ffe9;
+}
+
+section {
+  padding-top: 5rem;
+}
+.card {
+  position: relative;
+}
+.card-body a {
+  position: absolute;
+  width: 30%;
+  bottom: 5%;
+  left: 5%;
+}
