@@ -18,3 +18,20 @@ section {
   bottom: 5%;
   left: 5%;
 }
+.social { 
+  width: 25%;
+  margin: auto;
+}
+/* hover  */
+.fa-github:hover {
+  color: rgb(99, 99, 99);
+  transform: scale(1.1);
+}
+.fa-instagram:hover,.fa-youtube:hover {
+  color: #d61e1e;
+  transform: scale(1.1);
+}
+.fa-linkedin:hover{
+  color: #0e76a8;
+  transform: scale(1.1);
+}
